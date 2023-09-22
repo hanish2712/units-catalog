@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "unit_catalogue"
+version = "0.1"
+description = "Environment to create unit catalogue"
+authors = ["Hassan Gomaa <hassan.gomaa@cognite.com>"]
+
+packages = [
+  { include = "src" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "*"
+pandas = "*"
+rdflib = "^7.0.0"
+pydantic = "^2.3.0"
+openpyxl = "^3.1.2"
+
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.25.1"
+black = "^23.7.0"
