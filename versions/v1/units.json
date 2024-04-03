@@ -2084,7 +2084,9 @@
     "longName": "ampere",
     "aliasNames": [
       "ampere",
-      "A"
+      "A",
+      "Amps",
+      "amps"
     ],
     "symbol": "A",
     "conversion": {
@@ -2233,7 +2235,15 @@
     "longName": "volt",
     "aliasNames": [
       "V",
-      "volt"
+      "volt",
+      "volts",
+      "Volts",
+      "Volts DC",
+      "volts DC",
+      "Volts AC",
+      "volts AC",
+      "VAC",
+      "VDC"     
     ],
     "symbol": "V",
     "conversion": {
@@ -2568,7 +2578,9 @@
       "kilowatt hour",
       "KiloW Hour",
       "kilowatthour",
-      "Kilowatt hr"
+      "Kilowatt hr",
+      "kWh",
+      "kWhr"
     ],
     "symbol": "kW⋅h",
     "conversion": {
@@ -3520,7 +3532,9 @@
     "aliasNames": [
       "reciprocal minute",
       "per minute",
-      "/ min"
+      "/ min",
+      "1/min",
+      "per min"
     ],
     "symbol": "/min",
     "conversion": {
@@ -3658,7 +3672,9 @@
       "inch",
       "IN",
       "Inch",
-      "in"
+      "in",
+      "Inches",
+      "inches"
     ],
     "symbol": "in",
     "conversion": {
@@ -3922,7 +3938,9 @@
       "Pound Mass",
       "pound mass",
       "LB",
-      "lbm"
+      "lbm",
+      "lbs",
+      "Lbs"
     ],
     "symbol": "lbm",
     "conversion": {
@@ -6403,7 +6421,9 @@
       "kiloohm",
       "kΩ",
       "KiloOHM",
-      "Kiloohm"
+      "Kiloohm",
+      "kOhm",
+      "kohm"
     ],
     "symbol": "kΩ",
     "conversion": {
@@ -7287,7 +7307,10 @@
     "aliasNames": [
       "DAY",
       "day",
-      "Day"
+      "Day",
+      "days",
+      "Days",
+      "d"
     ],
     "symbol": "day",
     "conversion": {
@@ -7306,7 +7329,10 @@
       "HR",
       "Hour",
       "hour",
-      "hr"
+      "hr",
+      "hours",
+      "Hr",
+      "Hrs"
     ],
     "symbol": "h",
     "conversion": {
@@ -8447,7 +8473,8 @@
       "STB/d",
       "STB/day",
       "STBD",
-      "bbls/d"
+      "bbls/d",
+      "bbls/day"
     ],
     "symbol": "bbl/day",
     "conversion": {
@@ -9391,7 +9418,9 @@
       "m³ per SEC",
       "M3 per SEC",
       "m³ / s",
-      "cubic meter per second"
+      "cubic meter per second",
+      "m3/s",
+      "m3/sec"
     ],
     "symbol": "m³/s",
     "conversion": {
@@ -9641,7 +9670,9 @@
       "MMCF/day",
       "MMSCF/d",
       "MMSCF/day",
-      "MMscf/d"
+      "MMscf/d",
+      "mcf/d",
+      "Mcf/d"
     ],
     "symbol": "MMscf/day",
     "conversion": {
