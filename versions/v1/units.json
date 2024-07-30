@@ -42,7 +42,7 @@
     "symbol": "ft/s²",
     "conversion": {
       "multiplier": 0.3048,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT-PER-SEC2"
@@ -91,7 +91,7 @@
     "symbol": "in/s²",
     "conversion": {
       "multiplier": 0.0254,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/IN-PER-SEC2"
@@ -147,8 +147,8 @@
     ],
     "symbol": "m/s²",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M-PER-SEC2"
@@ -167,7 +167,7 @@
     "symbol": "cmol",
     "conversion": {
       "multiplier": 0.01,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiMOL"
@@ -185,8 +185,8 @@
     ],
     "symbol": "kmol",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloMOL"
@@ -204,8 +204,8 @@
     ],
     "symbol": "μmol",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroMOL"
@@ -224,7 +224,7 @@
     "symbol": "mmol",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliMOL"
@@ -241,8 +241,8 @@
     ],
     "symbol": "mol",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MOL"
@@ -298,8 +298,8 @@
     ],
     "symbol": "cmol/L",
     "conversion": {
-      "multiplier": 10.0,
-      "offset": 0.0
+      "multiplier": 10,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiMOL-PER-L"
@@ -356,8 +356,8 @@
     ],
     "symbol": "kmol/m³",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloMOL-PER-M3"
@@ -416,7 +416,7 @@
     "symbol": "µmol/L",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroMOL-PER-L"
@@ -472,8 +472,8 @@
     ],
     "symbol": "mmol/L",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliMOL-PER-L"
@@ -531,7 +531,7 @@
     "symbol": "mmol/m³",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliMOL-PER-M3"
@@ -584,8 +584,8 @@
     ],
     "symbol": "mol/dm³",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MOL-PER-DeciM3"
@@ -632,8 +632,8 @@
     ],
     "symbol": "mol/L",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MOL-PER-L"
@@ -680,8 +680,8 @@
     ],
     "symbol": "mol/m³",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MOL-PER-M3"
@@ -700,7 +700,7 @@
     "symbol": "°",
     "conversion": {
       "multiplier": 0.0174532925,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/DEG"
@@ -718,7 +718,7 @@
     "symbol": "grad",
     "conversion": {
       "multiplier": 0.0157079633,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GRAD"
@@ -735,8 +735,8 @@
     ],
     "symbol": "µrad",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroRAD"
@@ -754,7 +754,7 @@
     "symbol": "mrad",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliRAD"
@@ -771,8 +771,8 @@
     ],
     "symbol": "rad",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/RAD"
@@ -791,10 +791,61 @@
     "symbol": "rev",
     "conversion": {
       "multiplier": 6.28318531,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/REV"
+  },
+  {
+    "externalId": "angle_per_length:deg-per-m",
+    "name": "DEG-PER-M",
+    "quantity": "Angle Per Length",
+    "longName": "Degrees Per Meter",
+    "aliasNames": [
+      "deg/m",
+      "deg.m-1"
+    ],
+    "symbol": "deg/m",
+    "conversion": {
+      "multiplier": 0.0174532925199433,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/DEG-PER-M"
+  },
+  {
+    "externalId": "angle_per_length:rad-per-ft",
+    "name": "RAD-PER-FT",
+    "quantity": "Angle Per Length",
+    "longName": "Radians Per Foot",
+    "aliasNames": [
+      "rad/ft",
+      "rad.ft-1"
+    ],
+    "symbol": "rad/ft",
+    "conversion": {
+      "multiplier": 3.280839895,
+      "offset": 0
+    },
+    "source": "Energistics",
+    "sourceReference": "https://www.energistics.org/energistics-unit-of-measure-standard"
+  },
+  {
+    "externalId": "angle_per_length:rad-per-m",
+    "name": "RAD-PER-M",
+    "quantity": "Angle Per Length",
+    "longName": "Radians Per Meter",
+    "aliasNames": [
+      "rad/m",
+      "rad.m-1"
+    ],
+    "symbol": "rad/m",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/RAD-PER-M"
   },
   {
     "externalId": "angular_acceleration:rev-per-sec2",
@@ -839,7 +890,7 @@
     "symbol": "rev/s²",
     "conversion": {
       "multiplier": 6.28318531,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/REV-PER-SEC2"
@@ -889,7 +940,7 @@
     "symbol": "rev/h",
     "conversion": {
       "multiplier": 0.00174532925,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/REV-PER-HR"
@@ -938,7 +989,7 @@
     "symbol": "rev/min",
     "conversion": {
       "multiplier": 0.104719755,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/REV-PER-MIN"
@@ -980,7 +1031,7 @@
     "symbol": "rev/s",
     "conversion": {
       "multiplier": 6.28318531,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/REV-PER-SEC"
@@ -1001,7 +1052,7 @@
     "symbol": "cm²",
     "conversion": {
       "multiplier": 0.0001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiM2"
@@ -1022,7 +1073,7 @@
     "symbol": "dm²",
     "conversion": {
       "multiplier": 0.01,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/DeciM2"
@@ -1041,7 +1092,7 @@
     "symbol": "ft²",
     "conversion": {
       "multiplier": 0.09290304,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT2"
@@ -1060,7 +1111,7 @@
     "symbol": "in²",
     "conversion": {
       "multiplier": 0.00064516,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/IN2"
@@ -1079,8 +1130,8 @@
     ],
     "symbol": "m²",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M2"
@@ -1100,8 +1151,8 @@
     ],
     "symbol": "mm²",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliM2"
@@ -1120,10 +1171,47 @@
     "symbol": "yd²",
     "conversion": {
       "multiplier": 0.83612736,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/YD2"
+  },
+  {
+    "externalId": "attenuation:b",
+    "name": "B",
+    "quantity": "Attenuation",
+    "longName": "Bel",
+    "aliasNames": [
+      "B",
+      "Bel"
+    ],
+    "symbol": "B",
+    "conversion": {
+      "multiplier": 10,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/B"
+  },
+  {
+    "externalId": "attenuation:decib",
+    "name": "DeciB",
+    "quantity": "Attenuation",
+    "longName": "Decibel",
+    "aliasNames": [
+      "DB",
+      "-DB",
+      "-dB",
+      "dB",
+      "Decibel"
+    ],
+    "symbol": "dB",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/DeciB"
   },
   {
     "externalId": "capacitance:farad",
@@ -1137,8 +1225,8 @@
     ],
     "symbol": "F",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FARAD"
@@ -1155,8 +1243,8 @@
     ],
     "symbol": "µF",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroFARAD"
@@ -1175,7 +1263,7 @@
     "symbol": "mF",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliFARAD"
@@ -1233,7 +1321,7 @@
     "symbol": "g/m³",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GM-PER-M3"
@@ -1278,8 +1366,8 @@
     ],
     "symbol": "kg/m³",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-M3"
@@ -1330,7 +1418,7 @@
     "symbol": "lb/ft³",
     "conversion": {
       "multiplier": 16.018463373960138,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB-PER-FT3"
@@ -1357,7 +1445,7 @@
     "symbol": "lb/gal",
     "conversion": {
       "multiplier": 99.7763727,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB-PER-GAL"
@@ -1408,7 +1496,7 @@
     "symbol": "lb/in³",
     "conversion": {
       "multiplier": 27679.904710203125,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB-PER-IN3"
@@ -1459,7 +1547,7 @@
     "symbol": "lb/yd³",
     "conversion": {
       "multiplier": 0.5932764212577829,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB-PER-YD3"
@@ -1487,8 +1575,8 @@
     ],
     "symbol": "mg/m³",
     "conversion": {
-      "multiplier": 1.0e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliGM-PER-M3"
@@ -1515,7 +1603,7 @@
     "symbol": "oz/gal{US}",
     "conversion": {
       "multiplier": 6.23602329,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/OZ-PER-GAL"
@@ -1566,7 +1654,7 @@
     "symbol": "oz/in³{US}",
     "conversion": {
       "multiplier": 1729.99404,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/OZ-PER-IN3"
@@ -1584,8 +1672,8 @@
     ],
     "symbol": "#",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/NUM"
@@ -1603,8 +1691,8 @@
     ],
     "symbol": "",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/UNITLESS"
@@ -1622,8 +1710,8 @@
     ],
     "symbol": "",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FRACTION"
@@ -1642,7 +1730,7 @@
     "symbol": "%",
     "conversion": {
       "multiplier": 0.01,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/PERCENT"
@@ -1660,8 +1748,8 @@
     ],
     "symbol": "PPB",
     "conversion": {
-      "multiplier": 1.0e-09,
-      "offset": 0.0
+      "multiplier": 1e-9,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/PPB"
@@ -1679,8 +1767,8 @@
     ],
     "symbol": "PPM",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/PPM"
@@ -1699,7 +1787,7 @@
     "symbol": "PPTH",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/PPTH"
@@ -1717,8 +1805,8 @@
     ],
     "symbol": "",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/UNITLESS"
@@ -1737,7 +1825,7 @@
     "symbol": "cP",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiPOISE"
@@ -1884,7 +1972,7 @@
     "symbol": "lb/(ft⋅h)",
     "conversion": {
       "multiplier": 0.0004133788732137649,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB-PER-FT-HR"
@@ -1999,7 +2087,7 @@
     "symbol": "lb/(ft⋅s)",
     "conversion": {
       "multiplier": 1.4881639435695537,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB-PER-FT-SEC"
@@ -2028,7 +2116,7 @@
     "symbol": "mPa⋅s",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliPA-SEC"
@@ -2052,8 +2140,8 @@
     ],
     "symbol": "Pa⋅s",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/PA-SEC"
@@ -2072,7 +2160,7 @@
     "symbol": "P",
     "conversion": {
       "multiplier": 0.1,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/POISE"
@@ -2090,8 +2178,8 @@
     ],
     "symbol": "A",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/A"
@@ -2108,8 +2196,8 @@
     ],
     "symbol": "kA",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloA"
@@ -2127,8 +2215,8 @@
     ],
     "symbol": "MA",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaA"
@@ -2147,7 +2235,7 @@
     "symbol": "mA",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliA"
@@ -2165,8 +2253,8 @@
     ],
     "symbol": "kV",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloV"
@@ -2184,8 +2272,8 @@
     ],
     "symbol": "MV",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaV"
@@ -2203,8 +2291,8 @@
     ],
     "symbol": "µV",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroV"
@@ -2223,7 +2311,7 @@
     "symbol": "mV",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliV"
@@ -2247,11 +2335,31 @@
     ],
     "symbol": "V",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/V"
+  },
+  {
+    "externalId": "energy:boe",
+    "name": "BOE",
+    "quantity": "Energy",
+    "longName": "Barrel of Oil Equivalent",
+    "aliasNames": [
+      "bboe",
+      "boe",
+      "BOE",
+      "barrel oil equivalent",
+      "Barrel of Oil Equivalent"
+    ],
+    "symbol": "boe",
+    "conversion": {
+      "multiplier": 6120000000,
+      "offset": 0
+    },
+    "source": "Scientific Unit Conversion: A Practical Guide to Metrication - ISBN 9781447108054 - https://isbnsearch.org/isbn/9781447108054",
+    "sourceReference": null
   },
   {
     "externalId": "energy:btu_it",
@@ -2267,7 +2375,7 @@
     "symbol": "Btu{IT}",
     "conversion": {
       "multiplier": 1055.05585262,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/BTU_IT"
@@ -2286,7 +2394,7 @@
     "symbol": "Btu{th}",
     "conversion": {
       "multiplier": 1054.3502645,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/BTU_TH"
@@ -2305,7 +2413,7 @@
     "symbol": "cal{IT}",
     "conversion": {
       "multiplier": 4.1868,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CAL_IT"
@@ -2324,7 +2432,7 @@
     "symbol": "cal",
     "conversion": {
       "multiplier": 4.184,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CAL_TH"
@@ -2356,7 +2464,7 @@
     "symbol": "ft⋅lbf",
     "conversion": {
       "multiplier": 1.35581807,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT-LB_F"
@@ -2374,8 +2482,8 @@
     ],
     "symbol": "GJ",
     "conversion": {
-      "multiplier": 1000000000.0,
-      "offset": 0.0
+      "multiplier": 1000000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GigaJ"
@@ -2406,8 +2514,8 @@
     ],
     "symbol": "GW⋅h",
     "conversion": {
-      "multiplier": 3600000000000.0,
-      "offset": 0.0
+      "multiplier": 3600000000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GigaW-HR"
@@ -2423,8 +2531,8 @@
     ],
     "symbol": "J",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/J"
@@ -2443,7 +2551,7 @@
     "symbol": "kBtu{IT}",
     "conversion": {
       "multiplier": 105505.585262,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloBTU_IT"
@@ -2462,7 +2570,7 @@
     "symbol": "kBtu{th}",
     "conversion": {
       "multiplier": 1054350.2645,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloBTU_TH"
@@ -2480,8 +2588,8 @@
     ],
     "symbol": "kcal",
     "conversion": {
-      "multiplier": 4184.0,
-      "offset": 0.0
+      "multiplier": 4184,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloCAL"
@@ -2499,8 +2607,8 @@
     ],
     "symbol": "kJ",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloJ"
@@ -2548,8 +2656,8 @@
     ],
     "symbol": "kV⋅A/h",
     "conversion": {
-      "multiplier": 3600000.0,
-      "offset": 0.0
+      "multiplier": 3600000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloV-A-HR"
@@ -2584,8 +2692,8 @@
     ],
     "symbol": "kW⋅h",
     "conversion": {
-      "multiplier": 3600000.0,
-      "offset": 0.0
+      "multiplier": 3600000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloW-HR"
@@ -2603,8 +2711,8 @@
     ],
     "symbol": "MJ",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaJ"
@@ -2622,8 +2730,8 @@
     ],
     "symbol": "megatoe",
     "conversion": {
-      "multiplier": 4.1868e+16,
-      "offset": 0.0
+      "multiplier": 41868000000000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaTOE"
@@ -2671,8 +2779,8 @@
     ],
     "symbol": "MV⋅A⋅h",
     "conversion": {
-      "multiplier": 3600000000.0,
-      "offset": 0.0
+      "multiplier": 3600000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaV-A-HR"
@@ -2701,8 +2809,8 @@
     ],
     "symbol": "MW⋅h",
     "conversion": {
-      "multiplier": 3600000000.0,
-      "offset": 0.0
+      "multiplier": 3600000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaW-HR"
@@ -2720,8 +2828,8 @@
     ],
     "symbol": "µJ",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroJ"
@@ -2740,7 +2848,7 @@
     "symbol": "mJ",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliJ"
@@ -2758,8 +2866,8 @@
     ],
     "symbol": "TJ",
     "conversion": {
-      "multiplier": 1000000000000.0,
-      "offset": 0.0
+      "multiplier": 1000000000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/TeraJ"
@@ -2790,8 +2898,8 @@
     ],
     "symbol": "TW⋅h",
     "conversion": {
-      "multiplier": 3600000000000000.0,
-      "offset": 0.0
+      "multiplier": 3600000000000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/TeraW-HR"
@@ -2809,8 +2917,8 @@
     ],
     "symbol": "toe",
     "conversion": {
-      "multiplier": 41868000000.0,
-      "offset": 0.0
+      "multiplier": 41868000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/TOE"
@@ -2842,8 +2950,8 @@
     ],
     "symbol": "V⋅A⋅h",
     "conversion": {
-      "multiplier": 3600.0,
-      "offset": 0.0
+      "multiplier": 3600,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/V-A-HR"
@@ -2868,8 +2976,8 @@
     ],
     "symbol": "W⋅h",
     "conversion": {
-      "multiplier": 3600.0,
-      "offset": 0.0
+      "multiplier": 3600,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/W-HR"
@@ -2891,31 +2999,11 @@
     ],
     "symbol": "W⋅s",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/W-SEC"
-  },
-  {
-    "externalId": "energy:boe",
-    "name": "BOE",
-    "quantity": "Energy",
-    "longName": "Barrel of Oil Equivalent",
-    "aliasNames": [
-      "bboe",
-      "boe",
-      "BOE",
-      "barrel oil equivalent",
-      "Barrel of Oil Equivalent"
-    ],
-    "symbol": "boe",
-    "conversion": {
-      "multiplier": 6.12e09,
-      "offset": 0.0
-    },
-    "source": "Scientific Unit Conversion: A Practical Guide to Metrication - ISBN 9781447108054 - https://isbnsearch.org/isbn/9781447108054",
-    "sourceReference": null
   },
   {
     "externalId": "energy_density:btu_it-per-ft3",
@@ -2962,7 +3050,7 @@
     "symbol": "Btu{IT}/ft³",
     "conversion": {
       "multiplier": 37258.94579,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/BTU_IT-PER-FT3"
@@ -3012,7 +3100,7 @@
     "symbol": "Btu{th}/ft³",
     "conversion": {
       "multiplier": 37234.03,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/BTU_TH-PER-FT3"
@@ -3049,8 +3137,8 @@
     ],
     "symbol": "J/m³",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/J-PER-M3"
@@ -3107,8 +3195,8 @@
     ],
     "symbol": "MJ/m³",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaJ-PER-M3"
@@ -3208,11 +3296,65 @@
     ],
     "symbol": "W⋅h/m³",
     "conversion": {
-      "multiplier": 3600.0,
-      "offset": 0.0
+      "multiplier": 3600,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/W-HR-PER-M3"
+  },
+  {
+    "externalId": "energy_per_area:gigaj-per-m2",
+    "name": "GigaJ-PER-M2",
+    "quantity": "Energy Per Area",
+    "longName": "Gigajoule per Square Meter",
+    "aliasNames": [
+      "GJ/m²",
+      "GJ/m2",
+      "Gigajoule per Square Metre"
+    ],
+    "symbol": "GJ/m²",
+    "conversion": {
+      "multiplier": 1000000000,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/GigaJ-PER-M2"
+  },
+  {
+    "externalId": "energy_per_area:j-per-m2",
+    "name": "J-PER-M2",
+    "quantity": "Energy Per Area",
+    "longName": "Joule per Square Meter",
+    "aliasNames": [
+      "J/m²",
+      "J/m2",
+      "Joule per Square Metre"
+    ],
+    "symbol": "J/m²",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/J-PER-M2"
+  },
+  {
+    "externalId": "energy_per_area:megaj-per-m2",
+    "name": "MegaJ-PER-M2",
+    "quantity": "Energy Per Area",
+    "longName": "Megajoule Per Square Meter",
+    "aliasNames": [
+      "MJ/m²",
+      "MJ/m2",
+      "Megajoule per Square Metre"
+    ],
+    "symbol": "MJ/m²",
+    "conversion": {
+      "multiplier": 1000000,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/MegaJ-PER-M2"
   },
   {
     "externalId": "force:centin",
@@ -3228,7 +3370,7 @@
     "symbol": "cN",
     "conversion": {
       "multiplier": 0.01,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiN"
@@ -3247,7 +3389,7 @@
     "symbol": "klbf",
     "conversion": {
       "multiplier": 4448.222,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloLB_F"
@@ -3265,8 +3407,8 @@
     ],
     "symbol": "kN",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloN"
@@ -3285,7 +3427,7 @@
     "symbol": "lbf",
     "conversion": {
       "multiplier": 4.448222,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB_F"
@@ -3303,8 +3445,8 @@
     ],
     "symbol": "Mlbf",
     "conversion": {
-      "multiplier": 4448221.8148411428,
-      "offset": 0.0
+      "multiplier": 4448221.814841143,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaLB_F"
@@ -3320,8 +3462,8 @@
     ],
     "symbol": "N",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/N"
@@ -3340,10 +3482,54 @@
     "symbol": "ozf",
     "conversion": {
       "multiplier": 0.278013875,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/OZ_F"
+  },
+  {
+    "externalId": "frequency:hecto_spm",
+    "name": "hecto-SPM",
+    "quantity": "Frequency",
+    "longName": "Hecto Strokes per minute",
+    "aliasNames": [
+      "hectoSPM",
+      "HectoSPM",
+      "hectospm",
+      "Hectospm",
+      "hecto SPM",
+      "hecto spm"
+    ],
+    "symbol": "spm",
+    "conversion": {
+      "multiplier": 100,
+      "offset": 0
+    },
+    "source": "SPE Petrowiki",
+    "sourceReference": "https://petrowiki.spe.org/Sucker-rod_pumping_units"
+  },
+  {
+    "externalId": "frequency:hectohz",
+    "name": "hecto-HZ",
+    "quantity": "Frequency",
+    "longName": "Hecto hertz",
+    "aliasNames": [
+      "hectoHz",
+      "hectoHZ",
+      "hectohertz",
+      "hecto-Hz",
+      "hecto-hertz",
+      "HectoHertz",
+      "Hecto-Hertz",
+      "hHz"
+    ],
+    "symbol": "Hz",
+    "conversion": {
+      "multiplier": 100,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/HZ"
   },
   {
     "externalId": "frequency:hz",
@@ -3357,8 +3543,8 @@
     ],
     "symbol": "Hz",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/HZ"
@@ -3376,8 +3562,8 @@
     ],
     "symbol": "kHz",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloHZ"
@@ -3428,7 +3614,7 @@
     "symbol": "#/h",
     "conversion": {
       "multiplier": 0.000277777777777778,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/NUM-PER-HR"
@@ -3470,8 +3656,8 @@
     ],
     "symbol": "#/s",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/NUM-PER-SEC"
@@ -3518,8 +3704,8 @@
     ],
     "symbol": "#/yr",
     "conversion": {
-      "multiplier": 3.168808781402895e-08,
-      "offset": 0.0
+      "multiplier": 3.168808781402895e-8,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/NUM-PER-YR"
@@ -3538,11 +3724,86 @@
     ],
     "symbol": "/min",
     "conversion": {
-      "multiplier": 0.01666666666666666666666666666666667,
-      "offset": 0.0
+      "multiplier": 0.016666666666666666,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/PER-MIN"
+  },
+  {
+    "externalId": "frequency:spm",
+    "name": "SPM",
+    "quantity": "Frequency",
+    "longName": "Strokes per minute",
+    "aliasNames": [
+      "spm",
+      "SPM",
+      "strokes per min",
+      "Strokes per minute",
+      "strokes per minute",
+      "Strokes per min",
+      "Strokes/min",
+      "strokes/min",
+      "strokes/m",
+      "Strokes/m"
+    ],
+    "symbol": "spm",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0
+    },
+    "source": "SPE Petrowiki",
+    "sourceReference": "https://petrowiki.spe.org/Sucker-rod_pumping_units"
+  },
+  {
+    "externalId": "gravity-api:api",
+    "name": "API",
+    "quantity": "Gravity_API",
+    "longName": "API Gravity",
+    "aliasNames": [
+      "api",
+      "API",
+      "API gravity",
+      "API Gravity",
+      "api gravity",
+      "grav",
+      "gravity",
+      "gravit",
+      "dAPI",
+      "degree API",
+      "Degree API",
+      "deg API"
+    ],
+    "symbol": "API",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/quantitykind/Gravity_API"
+  },
+  {
+    "externalId": "gravity-api:kilo-api",
+    "name": "kAPI",
+    "quantity": "Gravity_API",
+    "longName": "Kilo API Gravity",
+    "aliasNames": [
+      "kapi",
+      "kAPI",
+      "kAPI gravity",
+      "kAPI Gravity",
+      "kapi gravity",
+      "kgrav",
+      "kgravity",
+      "kgravit"
+    ],
+    "symbol": "kAPI",
+    "conversion": {
+      "multiplier": 1000,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/quantitykind/Gravity_API"
   },
   {
     "externalId": "inductance:h",
@@ -3555,8 +3816,8 @@
     ],
     "symbol": "H",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/H"
@@ -3574,8 +3835,8 @@
     ],
     "symbol": "µH",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroH"
@@ -3596,11 +3857,43 @@
     ],
     "symbol": "/m",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/PER-M"
+  },
+  {
+    "externalId": "kinematic_viscosity:centist",
+    "name": "CentiST",
+    "quantity": "Kinematic Viscosity",
+    "longName": "Centistokes",
+    "aliasNames": [
+      "cSt"
+    ],
+    "symbol": "cSt",
+    "conversion": {
+      "multiplier": 0.000001,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/CentiST"
+  },
+  {
+    "externalId": "kinematic_viscosity:st",
+    "name": "ST",
+    "quantity": "Kinematic Viscosity",
+    "longName": "Stokes",
+    "aliasNames": [
+      "St"
+    ],
+    "symbol": "St",
+    "conversion": {
+      "multiplier": 0.0001,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/ST"
   },
   {
     "externalId": "length:centim",
@@ -3618,7 +3911,7 @@
     "symbol": "cm",
     "conversion": {
       "multiplier": 0.01,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiM"
@@ -3639,7 +3932,7 @@
     "symbol": "dm",
     "conversion": {
       "multiplier": 0.1,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/DeciM"
@@ -3658,7 +3951,7 @@
     "symbol": "ft",
     "conversion": {
       "multiplier": 0.3048,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT"
@@ -3679,7 +3972,7 @@
     "symbol": "in",
     "conversion": {
       "multiplier": 0.0254,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/IN"
@@ -3699,8 +3992,8 @@
     ],
     "symbol": "km",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloM"
@@ -3719,8 +4012,8 @@
     ],
     "symbol": "m",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M"
@@ -3739,7 +4032,7 @@
     "symbol": "mi",
     "conversion": {
       "multiplier": 1609.344,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MI"
@@ -3759,8 +4052,8 @@
     ],
     "symbol": "µm",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroM"
@@ -3778,8 +4071,8 @@
     ],
     "symbol": "mil",
     "conversion": {
-      "multiplier": 2.54e-05,
-      "offset": 0.0
+      "multiplier": 0.0000254,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliIN"
@@ -3800,7 +4093,7 @@
     "symbol": "mm",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliM"
@@ -3819,7 +4112,7 @@
     "symbol": "yd",
     "conversion": {
       "multiplier": 0.9144,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/YD"
@@ -3848,8 +4141,8 @@
     ],
     "symbol": "kg/m",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-M"
@@ -3867,8 +4160,8 @@
     ],
     "symbol": "cg",
     "conversion": {
-      "multiplier": 1e-05,
-      "offset": 0.0
+      "multiplier": 0.00001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiGM"
@@ -3887,7 +4180,7 @@
     "symbol": "g",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GM"
@@ -3904,8 +4197,8 @@
     ],
     "symbol": "kg",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM"
@@ -3923,8 +4216,8 @@
     ],
     "symbol": "kt",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloTONNE"
@@ -3945,7 +4238,7 @@
     "symbol": "lbm",
     "conversion": {
       "multiplier": 0.45359237,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB"
@@ -3963,8 +4256,8 @@
     ],
     "symbol": "mg",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliGM"
@@ -3983,7 +4276,7 @@
     "symbol": "oz",
     "conversion": {
       "multiplier": 0.028349523125,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/OZ"
@@ -4001,8 +4294,8 @@
     ],
     "symbol": "t",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/TONNE"
@@ -4051,8 +4344,8 @@
     ],
     "symbol": "kg/m³",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-M3"
@@ -4102,8 +4395,8 @@
     ],
     "symbol": "mg/mL",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliGM-PER-MilliL"
@@ -4151,8 +4444,8 @@
     ],
     "symbol": "g/min",
     "conversion": {
-      "multiplier": 1.666667e-05,
-      "offset": 0.0
+      "multiplier": 0.00001666667,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GM-PER-MIN"
@@ -4193,7 +4486,7 @@
     "symbol": "g/s",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GM-PER-SEC"
@@ -4227,8 +4520,8 @@
     ],
     "symbol": "kg/day",
     "conversion": {
-      "multiplier": 1.157407e-05,
-      "offset": 0.0
+      "multiplier": 0.00001157407,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-DAY"
@@ -4270,7 +4563,7 @@
     "symbol": "kg/h",
     "conversion": {
       "multiplier": 0.000277777778,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-HR"
@@ -4311,7 +4604,7 @@
     "symbol": "kg/min",
     "conversion": {
       "multiplier": 0.01666667,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-MIN"
@@ -4345,8 +4638,8 @@
     ],
     "symbol": "kg/s",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-SEC"
@@ -4397,7 +4690,7 @@
     "symbol": "lb/h",
     "conversion": {
       "multiplier": 0.00012599788055555556,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB-PER-HR"
@@ -4448,10 +4741,53 @@
     "symbol": "lb/min",
     "conversion": {
       "multiplier": 0.007559872833333333,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB-PER-MIN"
+  },
+  {
+    "externalId": "mass_flow_rate:lb-per-sec",
+    "name": "LB-PER-SEC",
+    "quantity": "Mass Flow Rate",
+    "longName": "Pound (avoirdupois) Per Second",
+    "aliasNames": [
+      "pound mass / SEC",
+      "LB / s",
+      "lbm per second",
+      "Pound Mass / second",
+      "lb / s",
+      "Pound Mass per s",
+      "pound mass per second",
+      "Pound Mass / s",
+      "LB / second",
+      "LB per SEC",
+      "LB per second",
+      "Pound Mass per second",
+      "pound mass per SEC",
+      "LB PER SEC",
+      "Pound Mass per SEC",
+      "lbm per s",
+      "pound (avoirdupois) per second",
+      "pound mass per s",
+      "lbm per SEC",
+      "Pound (avoirdupois) Per Second",
+      "Pound Mass / SEC",
+      "LB per s",
+      "pound mass / s",
+      "lbm / second",
+      "pound mass / second",
+      "lbm / s",
+      "lbm / SEC",
+      "LB / SEC"
+    ],
+    "symbol": "lb/s",
+    "conversion": {
+      "multiplier": 0.4535924,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/LB-PER-SEC"
   },
   {
     "externalId": "mass_flow_rate:milligm-per-sec",
@@ -4488,8 +4824,8 @@
     ],
     "symbol": "mg/s",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliGM-PER-SEC"
@@ -4530,7 +4866,7 @@
     "symbol": "t/day",
     "conversion": {
       "multiplier": 0.011574074074074,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/TONNE-PER-DAY"
@@ -4579,7 +4915,7 @@
     "symbol": "t/h",
     "conversion": {
       "multiplier": 0.277777777777778,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/TONNE-PER-HR"
@@ -4628,7 +4964,7 @@
     "symbol": "t/min",
     "conversion": {
       "multiplier": 16.666666666666668,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/TONNE-PER-MIN"
@@ -4668,8 +5004,8 @@
     ],
     "symbol": "t/s",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/TONNE-PER-SEC"
@@ -4706,8 +5042,8 @@
     ],
     "symbol": "H/m",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/H-PER-M"
@@ -4757,7 +5093,7 @@
     "symbol": "Btu{IT}/h",
     "conversion": {
       "multiplier": 0.29307107,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/BTU_IT-PER-HR"
@@ -4799,7 +5135,7 @@
     "symbol": "Btu{IT}/s",
     "conversion": {
       "multiplier": 1055.05585262,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/BTU_IT-PER-SEC"
@@ -4944,7 +5280,7 @@
     "symbol": "ft⋅lbf/h",
     "conversion": {
       "multiplier": 0.00376616129,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT-LB_F-PER-HR"
@@ -5089,7 +5425,7 @@
     "symbol": "ft⋅lbf/min",
     "conversion": {
       "multiplier": 0.0225969678,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT-LB_F-PER-MIN"
@@ -5203,7 +5539,7 @@
     "symbol": "ft⋅lbf/s",
     "conversion": {
       "multiplier": 1.35581807,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT-LB_F-PER-SEC"
@@ -5221,8 +5557,8 @@
     ],
     "symbol": "GW",
     "conversion": {
-      "multiplier": 1000000000.0,
-      "offset": 0.0
+      "multiplier": 1000000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GigaW"
@@ -5240,7 +5576,7 @@
     "symbol": "HP",
     "conversion": {
       "multiplier": 745.6999,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/HP"
@@ -5272,8 +5608,8 @@
     ],
     "symbol": "J/h",
     "conversion": {
-      "multiplier": 3600.0,
-      "offset": 0.0
+      "multiplier": 3600,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/J-PER-HR"
@@ -5301,8 +5637,8 @@
     ],
     "symbol": "J/s",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/J-PER-SEC"
@@ -5350,7 +5686,7 @@
     "symbol": "kBtu{IT}/h",
     "conversion": {
       "multiplier": 293.07107,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloBTU_IT-PER-HR"
@@ -5399,7 +5735,7 @@
     "symbol": "kcal/min",
     "conversion": {
       "multiplier": 69.7333333,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloCAL-PER-MIN"
@@ -5439,8 +5775,8 @@
     ],
     "symbol": "kcal/s",
     "conversion": {
-      "multiplier": 4184.0,
-      "offset": 0.0
+      "multiplier": 4184,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloCAL-PER-SEC"
@@ -5464,8 +5800,8 @@
     ],
     "symbol": "kV⋅A",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloV-A"
@@ -5483,8 +5819,8 @@
     ],
     "symbol": "kW",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloW"
@@ -5511,7 +5847,7 @@
     "symbol": "MBtu{IT}/h",
     "conversion": {
       "multiplier": 293071.07,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaBTU_IT-PER-HR"
@@ -5551,8 +5887,8 @@
     ],
     "symbol": "MJ/s",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaJ-PER-SEC"
@@ -5576,8 +5912,8 @@
     ],
     "symbol": "MV⋅A",
     "conversion": {
-      "multiplier": 1.0e06,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaV-A"
@@ -5594,8 +5930,8 @@
     ],
     "symbol": "MW",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaW"
@@ -5613,7 +5949,7 @@
     "symbol": "mW",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliW"
@@ -5631,8 +5967,8 @@
     ],
     "symbol": "TW",
     "conversion": {
-      "multiplier": 1000000000000.0,
-      "offset": 0.0
+      "multiplier": 1000000000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/TeraW"
@@ -5651,8 +5987,8 @@
     ],
     "symbol": "V⋅A",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/V-A"
@@ -5668,11 +6004,29 @@
     ],
     "symbol": "W",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/W"
+  },
+  {
+    "externalId": "power_per_area:w-per-m2",
+    "name": "W-PER-M2",
+    "quantity": "Power Per Area",
+    "longName": "Watt per square meter",
+    "aliasNames": [
+      "W/m²",
+      "W/m2",
+      "watt per square metre"
+    ],
+    "symbol": "W/m²",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/W-PER-M2"
   },
   {
     "externalId": "pressure:atm",
@@ -5687,8 +6041,8 @@
     ],
     "symbol": "atm",
     "conversion": {
-      "multiplier": 101325.0,
-      "offset": 0.0
+      "multiplier": 101325,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/ATM"
@@ -5708,8 +6062,8 @@
     ],
     "symbol": "bar",
     "conversion": {
-      "multiplier": 100000.0,
-      "offset": 0.0
+      "multiplier": 100000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/BAR"
@@ -5732,7 +6086,7 @@
     ],
     "symbol": "bar(g)",
     "conversion": {
-      "multiplier": 100000.0,
+      "multiplier": 100000,
       "offset": 1.01325
     },
     "source": "Experimental Methods and Instrumentation for Chemical Engineers - ISBN 9780444538055 - https://isbnsearch.org/isbn/9780444538055",
@@ -5751,8 +6105,8 @@
     ],
     "symbol": "GPa",
     "conversion": {
-      "multiplier": 1000000000.0,
-      "offset": 0.0
+      "multiplier": 1000000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GigaPA"
@@ -5770,8 +6124,8 @@
     ],
     "symbol": "hPa",
     "conversion": {
-      "multiplier": 100.0,
-      "offset": 0.0
+      "multiplier": 100,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/HectoPA"
@@ -5789,8 +6143,8 @@
     ],
     "symbol": "kbar",
     "conversion": {
-      "multiplier": 100000000.0,
-      "offset": 0.0
+      "multiplier": 100000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloBAR"
@@ -5928,11 +6282,54 @@
     ],
     "symbol": "kg/(m⋅s²)",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-M-SEC2"
+  },
+  {
+    "externalId": "pressure:kilogm_f-per-centim2",
+    "name": "KiloGM_F-PER-CentiM2",
+    "quantity": "Pressure",
+    "longName": "Kilogram Force per Square Centimeter",
+    "aliasNames": [
+      "kilogram force / square centimeter",
+      "kilogram force per square centimeter",
+      "kg per cm²",
+      "kg / cm²",
+      "kgf / cm²",
+      "kgf per cm²",
+      "kilogram per cm²",
+      "kilogram force per cm²",
+      "kilogram force / cm²",
+      "kg per cm2",
+      "kg / cm2",
+      "kgf / cm2",
+      "kgf per cm2",
+      "Kilogram per cm2",
+      "kilogram force per cm2",
+      "Kilogram force / cm2",
+      "kilogm force / square centimeter",
+      "kilogm force per square centimeter",
+      "Kilogm per cm²",
+      "kilogm force per cm²",
+      "kilogm force / cm²",
+      "Kilogm per cm2",
+      "kilogm force per cm2",
+      "Kilogm force / cm2",
+      "kilogram_force per cm2",
+      "Kilogram_force / cm2",
+      "kilogm_force per cm2",
+      "Kilogm_force / cm2"
+    ],
+    "symbol": "kgf/cm²",
+    "conversion": {
+      "multiplier": 98066.5,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/KiloGM_F-PER-CentiM2"
   },
   {
     "externalId": "pressure:kilolb_f-per-in2",
@@ -5979,53 +6376,10 @@
     "symbol": "kpsi",
     "conversion": {
       "multiplier": 6894757.89,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloLB_F-PER-IN2"
-  },
-  {
-    "externalId": "pressure:kilogm_f-per-centim2",
-    "name": "KiloGM_F-PER-CentiM2",
-    "quantity": "Pressure",
-    "longName": "Kilogram Force per Square Centimeter",
-    "aliasNames": [
-      "kilogram force / square centimeter",
-      "kilogram force per square centimeter",
-      "kg per cm²",
-      "kg / cm²",
-      "kgf / cm²",
-      "kgf per cm²",
-      "kilogram per cm²",
-      "kilogram force per cm²",
-      "kilogram force / cm²",
-      "kg per cm2",
-      "kg / cm2",
-      "kgf / cm2",
-      "kgf per cm2",
-      "Kilogram per cm2",
-      "kilogram force per cm2",
-      "Kilogram force / cm2",
-      "kilogm force / square centimeter",
-      "kilogm force per square centimeter",
-      "Kilogm per cm²",
-      "kilogm force per cm²",
-      "kilogm force / cm²",
-      "Kilogm per cm2",
-      "kilogm force per cm2",
-      "Kilogm force / cm2",
-      "kilogram_force per cm2",
-      "Kilogram_force / cm2",
-      "kilogm_force per cm2",
-      "Kilogm_force / cm2"
-    ],
-    "symbol": "kgf/cm²",
-    "conversion": {
-      "multiplier": 98066.5,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/KiloGM_F-PER-CentiM2"
   },
   {
     "externalId": "pressure:kilopa",
@@ -6040,8 +6394,8 @@
     ],
     "symbol": "kPa",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloPA"
@@ -6061,7 +6415,7 @@
     ],
     "symbol": "kPa(g)",
     "conversion": {
-      "multiplier": 1000.0,
+      "multiplier": 1000,
       "offset": 101.325
     },
     "source": "Experimental Methods and Instrumentation for Chemical Engineers - ISBN 9780444538055 - https://isbnsearch.org/isbn/9780444538055",
@@ -6110,7 +6464,7 @@
     "symbol": "lbf/ft²",
     "conversion": {
       "multiplier": 47.8802631,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB_F-PER-FT2"
@@ -6128,8 +6482,8 @@
     ],
     "symbol": "Mbar",
     "conversion": {
-      "multiplier": 100000000000.0,
-      "offset": 0.0
+      "multiplier": 100000000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaBAR"
@@ -6147,8 +6501,8 @@
     ],
     "symbol": "MPa",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaPA"
@@ -6166,8 +6520,8 @@
     ],
     "symbol": "μPa",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroPA"
@@ -6185,8 +6539,8 @@
     ],
     "symbol": "mbar",
     "conversion": {
-      "multiplier": 100.0,
-      "offset": 0.0
+      "multiplier": 100,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliBAR"
@@ -6207,7 +6561,7 @@
     "symbol": "mmH₂0",
     "conversion": {
       "multiplier": 9.80665,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliM_H2O"
@@ -6226,7 +6580,7 @@
     "symbol": "mPa",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliPA"
@@ -6267,8 +6621,8 @@
     ],
     "symbol": "N/cm²",
     "conversion": {
-      "multiplier": 10000.0,
-      "offset": 0.0
+      "multiplier": 10000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/N-PER-CentiM2"
@@ -6307,8 +6661,8 @@
     ],
     "symbol": "N/m²",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/N-PER-M2"
@@ -6349,8 +6703,8 @@
     ],
     "symbol": "N/mm²",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/N-PER-MilliM2"
@@ -6367,8 +6721,8 @@
     ],
     "symbol": "Pa",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/PA"
@@ -6388,7 +6742,7 @@
     "symbol": "psi",
     "conversion": {
       "multiplier": 6894.75789,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/PSI"
@@ -6413,28 +6767,6 @@
     "sourceReference": null
   },
   {
-    "externalId": "pressure_gradient:pa-per-m",
-    "name": "PA-PER-M",
-    "quantity": "Pressure Gradient",
-    "longName": "Pascal per meter",
-    "aliasNames": [
-      "pascal per metre",
-      "Pascal per metre",
-      "pa per m",
-      "Pa/m",
-      "pa/m",
-      "Pa / m",
-      "pa / m"
-    ],
-    "symbol": "Pa/m",
-    "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
-    },
-    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/KiloPA-PER-M",
-    "sourceReference": null
-  },
-  {
     "externalId": "pressure_gradient:bar-per-m",
     "name": "BAR-PER-M",
     "quantity": "Pressure Gradient",
@@ -6449,8 +6781,8 @@
     ],
     "symbol": "bar/m",
     "conversion": {
-      "multiplier": 100000.0,
-      "offset": 0.0
+      "multiplier": 100000,
+      "offset": 0
     },
     "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/KiloPA-PER-M",
     "sourceReference": null
@@ -6471,11 +6803,33 @@
     ],
     "symbol": "kPa/m",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloPA-PER-M"
+  },
+  {
+    "externalId": "pressure_gradient:pa-per-m",
+    "name": "PA-PER-M",
+    "quantity": "Pressure Gradient",
+    "longName": "Pascal per meter",
+    "aliasNames": [
+      "pascal per metre",
+      "Pascal per metre",
+      "pa per m",
+      "Pa/m",
+      "pa/m",
+      "Pa / m",
+      "pa / m"
+    ],
+    "symbol": "Pa/m",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0
+    },
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/KiloPA-PER-M",
+    "sourceReference": null
   },
   {
     "externalId": "pressure_gradient:psi-per-ft",
@@ -6493,7 +6847,7 @@
     "symbol": "psi/ft",
     "conversion": {
       "multiplier": 22620.6,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/KiloPA-PER-M",
     "sourceReference": null
@@ -6513,8 +6867,8 @@
     ],
     "symbol": "kΩ",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloOHM"
@@ -6533,7 +6887,7 @@
     "symbol": "mΩ",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliOHM"
@@ -6550,8 +6904,8 @@
     ],
     "symbol": "Ω",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/OHM"
@@ -6698,7 +7052,7 @@
     "symbol": "ft⋅lbf/ft²",
     "conversion": {
       "multiplier": 14.5939042,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT-LB_F-PER-FT2"
@@ -6739,8 +7093,8 @@
     ],
     "symbol": "J/cm²",
     "conversion": {
-      "multiplier": 10000.0,
-      "offset": 0.0
+      "multiplier": 10000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/J-PER-CentiM2"
@@ -6777,8 +7131,8 @@
     ],
     "symbol": "J/m²",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/J-PER-M2"
@@ -6818,8 +7172,8 @@
     ],
     "symbol": "kg/s²",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloGM-PER-SEC2"
@@ -6876,8 +7230,8 @@
     ],
     "symbol": "MJ/m²",
     "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
+      "multiplier": 1000000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MegaJ-PER-M2"
@@ -6995,8 +7349,8 @@
     ],
     "symbol": "N⋅m/m²",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/N-M-PER-M2"
@@ -7093,8 +7447,8 @@
     ],
     "symbol": "W⋅h/m²",
     "conversion": {
-      "multiplier": 3600.0,
-      "offset": 0.0
+      "multiplier": 3600,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/W-HR-PER-M2"
@@ -7172,8 +7526,8 @@
     ],
     "symbol": "W⋅s/m²",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/W-SEC-PER-M2"
@@ -7228,7 +7582,7 @@
     ],
     "symbol": "°C",
     "conversion": {
-      "multiplier": 1.0,
+      "multiplier": 1,
       "offset": 273.15
     },
     "source": "qudt.org",
@@ -7299,7 +7653,7 @@
     "symbol": "°R",
     "conversion": {
       "multiplier": 0.5555555555555556,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/DEG_R"
@@ -7339,8 +7693,8 @@
     ],
     "symbol": "K",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/K"
@@ -7379,8 +7733,8 @@
     ],
     "symbol": "K/m",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/K-PER-M"
@@ -7400,8 +7754,8 @@
     ],
     "symbol": "day",
     "conversion": {
-      "multiplier": 86400.0,
-      "offset": 0.0
+      "multiplier": 86400,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/DAY"
@@ -7422,8 +7776,8 @@
     ],
     "symbol": "h",
     "conversion": {
-      "multiplier": 3600.0,
-      "offset": 0.0
+      "multiplier": 3600,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/HR"
@@ -7440,8 +7794,8 @@
     ],
     "symbol": "µs",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroSEC"
@@ -7459,7 +7813,7 @@
     "symbol": "ms",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliSEC"
@@ -7477,8 +7831,8 @@
     ],
     "symbol": "min",
     "conversion": {
-      "multiplier": 60.0,
-      "offset": 0.0
+      "multiplier": 60,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MIN"
@@ -7494,8 +7848,8 @@
     ],
     "symbol": "mo",
     "conversion": {
-      "multiplier": 2.6298e+6,
-      "offset": 0.0
+      "multiplier": 2629800,
+      "offset": 0
     },
     "source": "UNECE: Codes for Units of Measure Used in International Trade (revision 2021) - https://unece.org/trade/uncefact/cl-recommendations",
     "sourceReference": null
@@ -7512,8 +7866,8 @@
     ],
     "symbol": "s",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/SEC"
@@ -7531,8 +7885,8 @@
     ],
     "symbol": "wk",
     "conversion": {
-      "multiplier": 604800.0,
-      "offset": 0.0
+      "multiplier": 604800,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/WK"
@@ -7550,8 +7904,8 @@
     ],
     "symbol": "yr",
     "conversion": {
-      "multiplier": 31557600.0,
-      "offset": 0.0
+      "multiplier": 31557600,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/YR"
@@ -7583,7 +7937,7 @@
     "symbol": "lbf⋅ft",
     "conversion": {
       "multiplier": 1.35581807,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB_F-FT"
@@ -7615,7 +7969,7 @@
     "symbol": "lbf⋅in",
     "conversion": {
       "multiplier": 0.112984839,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/LB_F-IN"
@@ -7641,11 +7995,27 @@
     ],
     "symbol": "N⋅m",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/N-M"
+  },
+  {
+    "externalId": "unknown:unknown",
+    "name": "Unknown",
+    "quantity": "Unknown",
+    "longName": "Unknown unit",
+    "aliasNames": [
+      "Unknown"
+    ],
+    "symbol": "",
+    "conversion": {
+      "multiplier": 1,
+      "offset": 0
+    },
+    "source": null,
+    "sourceReference": null
   },
   {
     "externalId": "velocity:ft-per-hr",
@@ -7689,8 +8059,8 @@
     ],
     "symbol": "ft/h",
     "conversion": {
-      "multiplier": 8.466666666666667e-05,
-      "offset": 0.0
+      "multiplier": 0.00008466666666666667,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT-PER-HR"
@@ -7731,7 +8101,7 @@
     "symbol": "ft/s",
     "conversion": {
       "multiplier": 0.3048,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT-PER-SEC"
@@ -7772,7 +8142,7 @@
     "symbol": "in/s",
     "conversion": {
       "multiplier": 0.0254,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/IN-PER-SEC"
@@ -7837,7 +8207,7 @@
     "symbol": "km/h",
     "conversion": {
       "multiplier": 0.2777777777777778,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloM-PER-HR"
@@ -7891,8 +8261,8 @@
     ],
     "symbol": "km/s",
     "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
+      "multiplier": 1000,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloM-PER-SEC"
@@ -7911,7 +8281,7 @@
     "symbol": "kn",
     "conversion": {
       "multiplier": 0.5144444444444445,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KN"
@@ -7970,7 +8340,7 @@
     "symbol": "m/h",
     "conversion": {
       "multiplier": 0.000277777778,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M-PER-HR"
@@ -8017,8 +8387,8 @@
     ],
     "symbol": "m/s",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M-PER-SEC"
@@ -8068,7 +8438,7 @@
     "symbol": "mi/h",
     "conversion": {
       "multiplier": 0.44704,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MI-PER-HR"
@@ -8113,10 +8483,28 @@
     "symbol": "mi/s",
     "conversion": {
       "multiplier": 1609.344,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MI-PER-SEC"
+  },
+  {
+    "externalId": "velocity:millim-per-hr",
+    "name": "MilliM-PER-HR",
+    "longName": "Millimeter Per Hour",
+    "symbol": "mm/h",
+    "aliasNames": [
+      "Millimetre Per Hour",
+      "mm/h",
+      "mm/hr"
+    ],
+    "quantity": "Velocity",
+    "conversion": {
+      "multiplier": 2.78e-7,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/MilliM-PER-HR"
   },
   {
     "externalId": "velocity:millim-per-sec",
@@ -8137,28 +8525,10 @@
     "symbol": "mm/s",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliM-PER-SEC"
-  },
-  {
-    "externalId": "velocity:millim-per-hr",
-    "name": "MilliM-PER-HR",
-    "longName": "Millimeter Per Hour",
-    "symbol": "mm/h",
-    "aliasNames": [
-      "Millimetre Per Hour",
-      "mm/h",
-      "mm/hr"
-    ],
-    "quantity": "Velocity",
-    "conversion": {
-      "multiplier": 2.78e-7,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/MilliM-PER-HR"
   },
   {
     "externalId": "volume:bbl_us",
@@ -8174,7 +8544,7 @@
     "symbol": "bbl",
     "conversion": {
       "multiplier": 0.1589873,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/BBL_US"
@@ -8192,8 +8562,8 @@
     ],
     "symbol": "cm³",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiM3"
@@ -8212,7 +8582,7 @@
     "symbol": "dL",
     "conversion": {
       "multiplier": 0.0001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/DeciL"
@@ -8233,7 +8603,7 @@
     "symbol": "dm³",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/DeciM3"
@@ -8252,7 +8622,7 @@
     "symbol": "ft³",
     "conversion": {
       "multiplier": 0.028316846592,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT3"
@@ -8271,7 +8641,7 @@
     "symbol": "gal{UK}",
     "conversion": {
       "multiplier": 0.00454609,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GAL_UK"
@@ -8289,8 +8659,8 @@
     ],
     "symbol": "in³",
     "conversion": {
-      "multiplier": 1.6387064e-05,
-      "offset": 0.0
+      "multiplier": 0.000016387064,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/IN3"
@@ -8312,7 +8682,7 @@
     "symbol": "k.ft³",
     "conversion": {
       "multiplier": 28.316846592,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/Kilo-FT3"
@@ -8330,8 +8700,8 @@
     ],
     "symbol": "kL",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloL"
@@ -8351,7 +8721,7 @@
     "symbol": "L",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/L"
@@ -8372,148 +8742,11 @@
     ],
     "symbol": "m³",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M3"
-  },
-  {
-    "externalId": "volume:megal",
-    "name": "MegaL",
-    "quantity": "Volume",
-    "longName": "Megalitre",
-    "aliasNames": [
-      "Megalitre",
-      "megalitre",
-      "MegaL",
-      "ML"
-    ],
-    "symbol": "ML",
-    "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/MegaL"
-  },
-  {
-    "externalId": "volume:mega-m3",
-    "name": "Mega-M3",
-    "quantity": "Volume",
-    "longName": "Million Standard Cubic Meter",
-    "aliasNames": [
-      "mega cubic meter",
-      "mega cubic metre",
-      "mmcm",
-      "MMCM",
-      "mmscm",
-      "MMscm"
-    ],
-    "symbol": "MMscm",
-    "conversion": {
-      "multiplier": 1.0e+6,
-      "offset": 0.0
-    },
-    "source": "Energistics: Unit of Measure Standard (revision June 2014) - https://www.energistics.org/energistics-unit-of-measure-standard",
-    "sourceReference": null
-  },
-  {
-    "externalId": "volume:microl",
-    "name": "MicroL",
-    "quantity": "Volume",
-    "longName": "Microlitre",
-    "aliasNames": [
-      "Microlitre",
-      "MicroL",
-      "microlitre",
-      "μL"
-    ],
-    "symbol": "μL",
-    "conversion": {
-      "multiplier": 1e-09,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/MicroL"
-  },
-  {
-    "externalId": "volume:microm3",
-    "name": "MicroM3",
-    "quantity": "Volume",
-    "longName": "Cubic micrometers (microns)",
-    "aliasNames": [
-      "cubic micrometres (microns)",
-      "µm³",
-      "MicroM3",
-      "Cubic micrometres (microns)"
-    ],
-    "symbol": "µm³",
-    "conversion": {
-      "multiplier": 1e-18,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/MicroM3"
-  },
-  {
-    "externalId": "volume:millil",
-    "name": "MilliL",
-    "quantity": "Volume",
-    "longName": "Millilitre",
-    "aliasNames": [
-      "Millilitre",
-      "millilitre",
-      "mL",
-      "MilliL"
-    ],
-    "symbol": "mL",
-    "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/MilliL"
-  },
-  {
-    "externalId": "volume:millim3",
-    "name": "MilliM3",
-    "quantity": "Volume",
-    "longName": "Cubic Millimeter",
-    "aliasNames": [
-      "Cubic Millimetre",
-      "cubic millimetre",
-      "mm³",
-      "MilliM3",
-      "Cubic Millimeter",
-      "cubic millimeter"
-    ],
-    "symbol": "mm³",
-    "conversion": {
-      "multiplier": 1e-09,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/MilliM3"
-  },
-  {
-    "externalId": "volume:yd3",
-    "name": "YD3",
-    "quantity": "Volume",
-    "longName": "Cubic Yard",
-    "aliasNames": [
-      "Cubic Yard",
-      "cubic yard",
-      "yd³",
-      "YD3"
-    ],
-    "symbol": "yd³",
-    "conversion": {
-      "multiplier": 0.764554857984,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/YD3"
   },
   {
     "externalId": "volume:mega-ft3",
@@ -8536,10 +8769,147 @@
     "symbol": "MMscf",
     "conversion": {
       "multiplier": 28316.846592,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/FT3",
     "sourceReference": null
+  },
+  {
+    "externalId": "volume:mega-m3",
+    "name": "Mega-M3",
+    "quantity": "Volume",
+    "longName": "Million Standard Cubic Meter",
+    "aliasNames": [
+      "mega cubic meter",
+      "mega cubic metre",
+      "mmcm",
+      "MMCM",
+      "mmscm",
+      "MMscm"
+    ],
+    "symbol": "MMscm",
+    "conversion": {
+      "multiplier": 1000000,
+      "offset": 0
+    },
+    "source": "Energistics: Unit of Measure Standard (revision June 2014) - https://www.energistics.org/energistics-unit-of-measure-standard",
+    "sourceReference": null
+  },
+  {
+    "externalId": "volume:megal",
+    "name": "MegaL",
+    "quantity": "Volume",
+    "longName": "Megalitre",
+    "aliasNames": [
+      "Megalitre",
+      "megalitre",
+      "MegaL",
+      "ML"
+    ],
+    "symbol": "ML",
+    "conversion": {
+      "multiplier": 1000,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/MegaL"
+  },
+  {
+    "externalId": "volume:microl",
+    "name": "MicroL",
+    "quantity": "Volume",
+    "longName": "Microlitre",
+    "aliasNames": [
+      "Microlitre",
+      "MicroL",
+      "microlitre",
+      "μL"
+    ],
+    "symbol": "μL",
+    "conversion": {
+      "multiplier": 1e-9,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/MicroL"
+  },
+  {
+    "externalId": "volume:microm3",
+    "name": "MicroM3",
+    "quantity": "Volume",
+    "longName": "Cubic micrometers (microns)",
+    "aliasNames": [
+      "cubic micrometres (microns)",
+      "µm³",
+      "MicroM3",
+      "Cubic micrometres (microns)"
+    ],
+    "symbol": "µm³",
+    "conversion": {
+      "multiplier": 1e-18,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/MicroM3"
+  },
+  {
+    "externalId": "volume:millil",
+    "name": "MilliL",
+    "quantity": "Volume",
+    "longName": "Millilitre",
+    "aliasNames": [
+      "Millilitre",
+      "millilitre",
+      "mL",
+      "MilliL"
+    ],
+    "symbol": "mL",
+    "conversion": {
+      "multiplier": 0.000001,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/MilliL"
+  },
+  {
+    "externalId": "volume:millim3",
+    "name": "MilliM3",
+    "quantity": "Volume",
+    "longName": "Cubic Millimeter",
+    "aliasNames": [
+      "Cubic Millimetre",
+      "cubic millimetre",
+      "mm³",
+      "MilliM3",
+      "Cubic Millimeter",
+      "cubic millimeter"
+    ],
+    "symbol": "mm³",
+    "conversion": {
+      "multiplier": 1e-9,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/MilliM3"
+  },
+  {
+    "externalId": "volume:yd3",
+    "name": "YD3",
+    "quantity": "Volume",
+    "longName": "Cubic Yard",
+    "aliasNames": [
+      "Cubic Yard",
+      "cubic yard",
+      "yd³",
+      "YD3"
+    ],
+    "symbol": "yd³",
+    "conversion": {
+      "multiplier": 0.764554857984,
+      "offset": 0
+    },
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/YD3"
   },
   {
     "externalId": "volume_flow_rate:bbl_us-per-day",
@@ -8564,8 +8934,8 @@
     ],
     "symbol": "bbl/day",
     "conversion": {
-      "multiplier": 1.84e-06,
-      "offset": 0.0
+      "multiplier": 0.00000184,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/BBL_US-PER-DAY"
@@ -8606,8 +8976,8 @@
     ],
     "symbol": "cm³/s",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiM3-PER-SEC"
@@ -8672,8 +9042,8 @@
     ],
     "symbol": "dm³/min",
     "conversion": {
-      "multiplier": 1.666667e-05,
-      "offset": 0.0
+      "multiplier": 0.00001666667,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/DeciM3-PER-MIN"
@@ -8727,7 +9097,7 @@
     "symbol": "dm³/s",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/DeciM3-PER-SEC"
@@ -8767,8 +9137,8 @@
     ],
     "symbol": "ft³/day",
     "conversion": {
-      "multiplier": 3.277413e-07,
-      "offset": 0.0
+      "multiplier": 3.277413e-7,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT3-PER-DAY"
@@ -8816,8 +9186,8 @@
     ],
     "symbol": "ft³/h",
     "conversion": {
-      "multiplier": 7.865792e-06,
-      "offset": 0.0
+      "multiplier": 0.000007865792,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT3-PER-HR"
@@ -8865,7 +9235,7 @@
     "symbol": "ft³/min",
     "conversion": {
       "multiplier": 0.0004719474432000001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT3-PER-MIN"
@@ -8906,7 +9276,7 @@
     "symbol": "ft³/s",
     "conversion": {
       "multiplier": 0.028316846592000004,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/FT3-PER-SEC"
@@ -8954,8 +9324,8 @@
     ],
     "symbol": "gal{UK}/h",
     "conversion": {
-      "multiplier": 1.262803e-06,
-      "offset": 0.0
+      "multiplier": 0.000001262803,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GAL_UK-PER-HR"
@@ -9003,8 +9373,8 @@
     ],
     "symbol": "gal{UK}/min",
     "conversion": {
-      "multiplier": 7.576817e-05,
-      "offset": 0.0
+      "multiplier": 0.00007576817,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GAL_UK-PER-MIN"
@@ -9045,7 +9415,7 @@
     "symbol": "gal{UK}/s",
     "conversion": {
       "multiplier": 0.00454609,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/GAL_UK-PER-SEC"
@@ -9085,11 +9455,34 @@
     ],
     "symbol": "in³/s",
     "conversion": {
-      "multiplier": 1.638706e-05,
-      "offset": 0.0
+      "multiplier": 0.00001638706,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/IN3-PER-SEC"
+  },
+  {
+    "externalId": "volume_flow_rate:kilo-ft3-per-day",
+    "name": "Kilo-FT3-PER-DAY",
+    "quantity": "Volume Flow Rate",
+    "longName": "Thousand Standard Cubic Feet per Day",
+    "aliasNames": [
+      "kilo cubic foot per day",
+      "kilo cubic foot / d",
+      "thousand cubic foot per day",
+      "thousand cubic foot / d",
+      "kft3 / day",
+      "kft3 / d",
+      "Mscfd",
+      "mscfd"
+    ],
+    "symbol": "kft³/day",
+    "conversion": {
+      "multiplier": 0.0003277413,
+      "offset": 0
+    },
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/FT3-PER-DAY",
+    "sourceReference": null
   },
   {
     "externalId": "volume_flow_rate:kilol-per-hr",
@@ -9135,33 +9528,68 @@
     "symbol": "kL/h",
     "conversion": {
       "multiplier": 0.00277777777778,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/KiloL-PER-HR"
   },
   {
-    "externalId": "volume_flow_rate:kilo-ft3-per-day",
-    "name": "Kilo-FT3-PER-DAY",
+    "externalId": "volume_flow_rate:l-per-day",
+    "name": "L-PER-DAY",
     "quantity": "Volume Flow Rate",
-    "longName": "Thousand Standard Cubic Feet per Day",
+    "longName": "Liter Per Day",
     "aliasNames": [
-      "kilo cubic foot per day",
-      "kilo cubic foot / d",
-      "thousand cubic foot per day",
-      "thousand cubic foot / d",
-      "kft3 / day",
-      "kft3 / d",
-      "Mscfd",
-      "mscfd"
+      "litre / d",
+      "liter per Day",
+      "liter / d",
+      "Litre / D",
+      "L / Day",
+      "litre / Day",
+      "Litre per Day",
+      "liter per day",
+      "L / D",
+      "liter / Day",
+      "litre / D",
+      "litre per d",
+      "Liter / Day",
+      "L per day",
+      "Liter / day",
+      "L per D",
+      "liter per d",
+      "Litre / d",
+      "liter / day",
+      "L per Day",
+      "L / day",
+      "liter / D",
+      "litre per D",
+      "L / d",
+      "L per d",
+      "Liter Per Day",
+      "Litre per d",
+      "Litre / day",
+      "Litre / Day",
+      "litre / day",
+      "litre per Day",
+      "L PER D",
+      "Liter per day",
+      "Liter per D",
+      "Liter per d",
+      "liter per D",
+      "Liter / D",
+      "Litre per day",
+      "Liter / d",
+      "Litre per D",
+      "Litre Per Day",
+      "Liter per Day",
+      "litre per day"
     ],
-    "symbol": "kft³/day",
+    "symbol": "L/day",
     "conversion": {
-      "multiplier": 3.277413e-04,
-      "offset": 0.0
+      "multiplier": 1.157407e-8,
+      "offset": 0
     },
-    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/FT3-PER-DAY",
-    "sourceReference": null
+    "source": "qudt.org",
+    "sourceReference": "https://qudt.org/vocab/unit/L-PER-DAY"
   },
   {
     "externalId": "volume_flow_rate:l-per-hr",
@@ -9182,8 +9610,8 @@
     ],
     "symbol": "L/hr",
     "conversion": {
-      "multiplier": 2.777778e-07,
-      "offset": 0.0
+      "multiplier": 2.777778e-7,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/L-PER-HR"
@@ -9240,8 +9668,8 @@
     ],
     "symbol": "L/min",
     "conversion": {
-      "multiplier": 1.666667e-05,
-      "offset": 0.0
+      "multiplier": 0.00001666667,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/L-PER-MIN"
@@ -9289,7 +9717,7 @@
     "symbol": "L/s",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/L-PER-SEC"
@@ -9336,8 +9764,8 @@
     ],
     "symbol": "m³/day",
     "conversion": {
-      "multiplier": 1.157407e-05,
-      "offset": 0.0
+      "multiplier": 0.00001157407,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M3-PER-DAY"
@@ -9403,7 +9831,7 @@
     "symbol": "m³/h",
     "conversion": {
       "multiplier": 0.0002777777777777778,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M3-PER-HR"
@@ -9461,7 +9889,7 @@
     "symbol": "m³/min",
     "conversion": {
       "multiplier": 0.01666667,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M3-PER-MIN"
@@ -9510,11 +9938,43 @@
     ],
     "symbol": "m³/s",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M3-PER-SEC"
+  },
+  {
+    "externalId": "volume_flow_rate:mega-ft3-per-day",
+    "name": "Mega-FT3-PER-DAY",
+    "quantity": "Volume Flow Rate",
+    "longName": "Million Standard Cubic Feet per Day",
+    "aliasNames": [
+      "MCFD",
+      "Mega Cubic Feet per Day",
+      "Mega Cubic Foot per Day",
+      "Mega FT3/day",
+      "Mega ft³/day",
+      "Million cu ft/day",
+      "Million FT3/day",
+      "Million ft³/day",
+      "MMCFD",
+      "MMSCFD",
+      "MMCF/d",
+      "MMCF/day",
+      "MMSCF/d",
+      "MMSCF/day",
+      "MMscf/d",
+      "mcf/d",
+      "Mcf/d"
+    ],
+    "symbol": "MMscf/day",
+    "conversion": {
+      "multiplier": 0.3277413,
+      "offset": 0
+    },
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/FT3-PER-DAY",
+    "sourceReference": "https://rds.posccaesar.org/ontology/plm/rdl/PCA_100005446/"
   },
   {
     "externalId": "volume_flow_rate:millil-per-sec",
@@ -9551,8 +10011,8 @@
     ],
     "symbol": "mL/s",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliL-PER-SEC"
@@ -9592,8 +10052,8 @@
     ],
     "symbol": "yd³/day",
     "conversion": {
-      "multiplier": 8.84901456e-06,
-      "offset": 0.0
+      "multiplier": 0.00000884901456,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/YD3-PER-DAY"
@@ -9642,7 +10102,7 @@
     "symbol": "yd³/h",
     "conversion": {
       "multiplier": 0.00021237634944,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/YD3-PER-HR"
@@ -9690,7 +10150,7 @@
     "symbol": "yd³/min",
     "conversion": {
       "multiplier": 0.0127425809664,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/YD3-PER-MIN"
@@ -9731,42 +10191,10 @@
     "symbol": "yd³/s",
     "conversion": {
       "multiplier": 0.764554857984,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/YD3-PER-SEC"
-  },
-  {
-    "externalId": "volume_flow_rate:mega-ft3-per-day",
-    "name": "Mega-FT3-PER-DAY",
-    "quantity": "Volume Flow Rate",
-    "longName": "Million Standard Cubic Feet per Day",
-    "aliasNames": [
-      "MCFD",
-      "Mega Cubic Feet per Day",
-      "Mega Cubic Foot per Day",
-      "Mega FT3/day",
-      "Mega ft³/day",
-      "Million cu ft/day",
-      "Million FT3/day",
-      "Million ft³/day",
-      "MMCFD",
-      "MMSCFD",
-      "MMCF/d",
-      "MMCF/day",
-      "MMSCF/d",
-      "MMSCF/day",
-      "MMscf/d",
-      "mcf/d",
-      "Mcf/d"
-    ],
-    "symbol": "MMscf/day",
-    "conversion": {
-      "multiplier": 0.3277413,
-      "offset": 0.0
-    },
-    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/FT3-PER-DAY",
-    "sourceReference": "https://rds.posccaesar.org/ontology/plm/rdl/PCA_100005446/"
   },
   {
     "externalId": "volume_fraction:centim3-per-centim3",
@@ -9812,8 +10240,8 @@
     ],
     "symbol": "cm³/cm³",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiM3-PER-CentiM3"
@@ -9870,8 +10298,8 @@
     ],
     "symbol": "cm³/m³",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/CentiM3-PER-M3"
@@ -9938,8 +10366,8 @@
     ],
     "symbol": "L/L",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/L-PER-L"
@@ -10006,8 +10434,8 @@
     ],
     "symbol": "m³/m³",
     "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
+      "multiplier": 1,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/M3-PER-M3"
@@ -10064,8 +10492,8 @@
     ],
     "symbol": "μL/L",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
+      "multiplier": 0.000001,
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MicroL-PER-L"
@@ -10123,7 +10551,7 @@
     "symbol": "mL/L",
     "conversion": {
       "multiplier": 0.001,
-      "offset": 0.0
+      "offset": 0
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/MilliL-PER-L"
@@ -10180,438 +10608,10 @@
     ],
     "symbol": "mL/m³",
     "conversion": {
-      "multiplier": 1e-06,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/MilliL-PER-M3"
-  },
-  {
-    "externalId": "mass_flow_rate:lb-per-sec",
-    "name": "LB-PER-SEC",
-    "quantity": "Mass Flow Rate",
-    "longName": "Pound (avoirdupois) Per Second",
-    "aliasNames": [
-      "pound mass / SEC",
-      "LB / s",
-      "lbm per second",
-      "Pound Mass / second",
-      "lb / s",
-      "Pound Mass per s",
-      "pound mass per second",
-      "Pound Mass / s",
-      "LB / second",
-      "LB per SEC",
-      "LB per second",
-      "Pound Mass per second",
-      "pound mass per SEC",
-      "LB PER SEC",
-      "Pound Mass per SEC",
-      "lbm per s",
-      "pound (avoirdupois) per second",
-      "pound mass per s",
-      "lbm per SEC",
-      "Pound (avoirdupois) Per Second",
-      "Pound Mass / SEC",
-      "LB per s",
-      "pound mass / s",
-      "lbm / second",
-      "pound mass / second",
-      "lbm / s",
-      "lbm / SEC",
-      "LB / SEC"
-    ],
-    "symbol": "lb/s",
-    "conversion": {
-      "multiplier": 0.4535924,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/LB-PER-SEC"
-  },
-  {
-    "externalId": "power_per_area:w-per-m2",
-    "name": "W-PER-M2",
-    "quantity": "Power Per Area",
-    "longName": "Watt per square meter",
-    "aliasNames": [
-      "W/m²",
-      "W/m2",
-      "watt per square metre"
-    ],
-    "symbol": "W/m²",
-    "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/W-PER-M2"
-  },
-  {
-    "externalId": "energy_per_area:j-per-m2",
-    "name": "J-PER-M2",
-    "quantity": "Energy Per Area",
-    "longName": "Joule per Square Meter",
-    "aliasNames": [
-      "J/m²",
-      "J/m2",
-      "Joule per Square Metre"
-    ],
-    "symbol": "J/m²",
-    "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/J-PER-M2"
-  },
-  {
-    "externalId": "energy_per_area:megaj-per-m2",
-    "name": "MegaJ-PER-M2",
-    "quantity": "Energy Per Area",
-    "longName": "Megajoule Per Square Meter",
-    "aliasNames": [
-      "MJ/m²",
-      "MJ/m2",
-      "Megajoule per Square Metre"
-    ],
-    "symbol": "MJ/m²",
-    "conversion": {
-      "multiplier": 1000000.0,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/MegaJ-PER-M2"
-  },
-  {
-    "externalId": "energy_per_area:gigaj-per-m2",
-    "name": "GigaJ-PER-M2",
-    "quantity": "Energy Per Area",
-    "longName": "Gigajoule per Square Meter",
-    "aliasNames": [
-      "GJ/m²",
-      "GJ/m2",
-      "Gigajoule per Square Metre"
-    ],
-    "symbol": "GJ/m²",
-    "conversion": {
-      "multiplier": 1000000000.0,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/GigaJ-PER-M2"
-  },
-  {
-    "externalId": "kinematic_viscosity:st",
-    "name": "ST",
-    "quantity": "Kinematic Viscosity",
-    "longName": "Stokes",
-    "aliasNames": [
-      "St"
-    ],
-    "symbol": "St",
-    "conversion": {
-      "multiplier": 0.0001,
-      "offset": 0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/ST"
-  },
-  {
-    "externalId": "kinematic_viscosity:centist",
-    "name": "CentiST",
-    "quantity": "Kinematic Viscosity",
-    "longName": "Centistokes",
-    "aliasNames": [
-      "cSt"
-    ],
-    "symbol": "cSt",
-    "conversion": {
       "multiplier": 0.000001,
       "offset": 0
     },
     "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/CentiST"
-  },
-  {
-    "externalId": "angle_per_length:rad-per-m",
-    "name": "RAD-PER-M",
-    "quantity": "Angle Per Length",
-    "longName": "Radians Per Meter",
-    "aliasNames": [
-      "rad/m",
-      "rad.m-1"
-    ],
-    "symbol": "rad/m",
-    "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/RAD-PER-M"
-  },
-  {
-    "externalId": "angle_per_length:deg-per-m",
-    "name": "DEG-PER-M",
-    "quantity": "Angle Per Length",
-    "longName": "Degrees Per Meter",
-    "aliasNames": [
-      "deg/m",
-      "deg.m-1"
-    ],
-    "symbol": "deg/m",
-    "conversion": {
-      "multiplier": 0.0174532925199433,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/DEG-PER-M"
-  },
-  {
-    "externalId": "angle_per_length:rad-per-ft",
-    "name": "RAD-PER-FT",
-    "quantity": "Angle Per Length",
-    "longName": "Radians Per Foot",
-    "aliasNames": [
-      "rad/ft",
-      "rad.ft-1"
-    ],
-    "symbol": "rad/ft",
-    "conversion": {
-      "multiplier": 3.280839895,
-      "offset": 0.0
-    },
-    "source": "Energistics",
-    "sourceReference": "https://www.energistics.org/energistics-unit-of-measure-standard"
-  },
-  {
-    "externalId": "volume_flow_rate:l-per-day",
-    "name": "L-PER-DAY",
-    "quantity": "Volume Flow Rate",
-    "longName": "Liter Per Day",
-    "aliasNames": [
-      "litre / d",
-      "liter per Day",
-      "liter / d",
-      "Litre / D",
-      "L / Day",
-      "litre / Day",
-      "Litre per Day",
-      "liter per day",
-      "L / D",
-      "liter / Day",
-      "litre / D",
-      "litre per d",
-      "Liter / Day",
-      "L per day",
-      "Liter / day",
-      "L per D",
-      "liter per d",
-      "Litre / d",
-      "liter / day",
-      "L per Day",
-      "L / day",
-      "liter / D",
-      "litre per D",
-      "L / d",
-      "L per d",
-      "Liter Per Day",
-      "Litre per d",
-      "Litre / day",
-      "Litre / Day",
-      "litre / day",
-      "litre per Day",
-      "L PER D",
-      "Liter per day",
-      "Liter per D",
-      "Liter per d",
-      "liter per D",
-      "Liter / D",
-      "Litre per day",
-      "Liter / d",
-      "Litre per D",
-      "Litre Per Day",
-      "Liter per Day",
-      "litre per day"
-    ],
-    "symbol": "L/day",
-    "conversion": {
-      "multiplier": 0.00000001157407,
-      "offset": 0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/L-PER-DAY"
-  },
-  {
-    "externalId": "unknown:unknown",
-    "name": "Unknown",
-    "quantity": "Unknown",
-    "longName": "Unknown unit",
-    "aliasNames": [
-      "Unknown"
-    ],
-    "symbol": "",
-    "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
-    },
-    "source": null,
-    "sourceReference": null
-  },
-  {
-    "externalId": "attenuation:decib",
-    "name": "DeciB",
-    "quantity": "Attenuation",
-    "longName": "Decibel",
-    "aliasNames": [
-      "DB",
-      "-DB",
-      "-dB",
-      "dB",
-      "Decibel"
-    ],
-    "symbol": "dB",
-    "conversion": {
-        "multiplier": 1.0,
-        "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/DeciB" 
-  },
-  {
-    "externalId": "attenuation:b",
-    "name": "B",
-    "quantity": "Attenuation",
-    "longName": "Bel",
-    "aliasNames": [
-      "B",
-      "Bel"
-    ],
-    "symbol": "B",
-    "conversion": {
-        "multiplier": 10.0,
-        "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/B" 
-  },
-  {
-    "externalId": "Frequency:spm",
-    "name": "SPM",
-    "quantity": "Frequency",
-    "longName": "Strokes per minute",
-    "aliasNames": [
-      "spm",
-      "SPM",
-      "strokes per min",
-      "Strokes per minute",
-      "strokes per minute",
-      "Strokes per min",
-      "Strokes/min",
-      "strokes/min",
-      "strokes/m",
-      "Strokes/m"
-    ],
-    "symbol": "spm",
-    "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
-    },
-    "source": "SPE Petrowiki",
-    "sourceReference": "https://petrowiki.spe.org/Sucker-rod_pumping_units"
-  },
-  {
-    "externalId": "Frequency:hecto_spm",
-    "name": "hecto-SPM",
-    "quantity": "Frequency",
-    "longName": "Hecto Strokes per minute",
-    "aliasNames": [
-      "hectoSPM",
-      "HectoSPM",
-      "hectospm",
-      "Hectospm",
-      "hecto SPM",
-      "hecto spm"
-    ],
-    "symbol": "spm",
-    "conversion": {
-      "multiplier": 100.0,
-      "offset": 0.0
-    },
-    "source": "SPE Petrowiki",
-    "sourceReference": "https://petrowiki.spe.org/Sucker-rod_pumping_units"
-  },
-  {
-    "externalId": "frequency:hectohz",
-    "name": "hecto-HZ",
-    "quantity": "Frequency",
-    "longName": "Hecto hertz",
-    "aliasNames": [
-      "hectoHz",
-      "hectoHZ",
-      "hectohertz",
-      "hecto-Hz", 
-      "hecto-hertz", 
-      "HectoHertz", 
-      "Hecto-Hertz",
-      "hHz"
-    ],
-    "symbol": "Hz",
-    "conversion": {
-      "multiplier": 100.0,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/HZ"
-  },
-  {
-    "externalId": "gravity-api:api",
-    "name": "API",
-    "quantity": "Gravity_API",
-    "longName": "API Gravity",
-    "aliasNames": [
-      "api",
-      "API",
-      "API gravity",
-      "API Gravity",
-      "api gravity",
-      "grav",
-      "gravity",
-      "gravit",
-      "dAPI",
-      "degree API",
-      "Degree API",
-      "deg API"
-    ],
-    "symbol": "API",
-    "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/quantitykind/Gravity_API"
-  },
-  {
-    "externalId": "gravity-api:kilo-api",
-    "name": "kAPI",
-    "quantity": "Gravity_API",
-    "longName": "Kilo API Gravity",
-    "aliasNames": [
-      "kapi",
-      "kAPI",
-      "kAPI gravity",
-      "kAPI Gravity",
-      "kapi gravity",
-      "kgrav",
-      "kgravity",
-      "kgravit",
-    ],
-    "symbol": "kAPI",
-    "conversion": {
-      "multiplier": 1000.0,
-      "offset": 0.0
-    },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/quantitykind/Gravity_API"
+    "sourceReference": "https://qudt.org/vocab/unit/MilliL-PER-M3"
   }
 ]
