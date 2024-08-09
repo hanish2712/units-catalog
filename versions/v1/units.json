@@ -10542,7 +10542,7 @@
     "sourceReference": "https://petrowiki.spe.org/Sucker-rod_pumping_units"
   },
   {
-    "externalId": "frequency:hecto-hz",
+    "externalId": "frequency:hectohz",
     "name": "hecto-HZ",
     "quantity": "Frequency",
     "longName": "Hectohertz",
