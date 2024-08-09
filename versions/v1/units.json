@@ -10561,14 +10561,14 @@
       "multiplier": 100.0,
       "offset": 0.0
     },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/unit/HZ"
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/HZ",
+    "sourceReference": null
   },
   {
-    "externalId": "gravity-api:api",
-    "name": "API",
-    "quantity": "Gravity_API",
-    "longName": "API Gravity",
+    "externalId": "api_gravity:degree_api",
+    "name": "DEGREE_API",
+    "quantity": "API Gravity",
+    "longName": "Degree API",
     "aliasNames": [
       "api",
       "API",
@@ -10581,7 +10581,8 @@
       "dAPI",
       "degree API",
       "Degree API",
-      "deg API"
+      "deg API",
+      "°API"
     ],
     "symbol": "°API",
     "conversion": {
@@ -10589,13 +10590,13 @@
       "offset": 0.0
     },
     "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/quantitykind/Gravity_API"
+    "sourceReference": "https://qudt.org/vocab/unit/DEGREE_API"
   },
   {
-    "externalId": "gravity-api:kilo-api",
-    "name": "kAPI",
-    "quantity": "Gravity_API",
-    "longName": "Kilo API Gravity",
+    "externalId": "api_gravity:kilo_degree_api",
+    "name": "KILO_DEGREE_API",
+    "quantity": "API Gravity",
+    "longName": "Kilo Degree API",
     "aliasNames": [
       "kapi",
       "kAPI",
@@ -10604,9 +10605,10 @@
       "kapi gravity",
       "kgrav",
       "kgravity",
-      "kgravit"
+      "kgravit",
+      "k °API"
     ],
-    "symbol": "kAPI",
+    "symbol": "k °API",
     "conversion": {
       "multiplier": 1000.0,
       "offset": 0.0
