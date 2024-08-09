@@ -10611,7 +10611,7 @@
       "multiplier": 1000.0,
       "offset": 0.0
     },
-    "source": "qudt.org",
-    "sourceReference": "https://qudt.org/vocab/quantitykind/Gravity_API"
+    "source": "Custom based on qudt.org - https://qudt.org/vocab/unit/DEGREE_API",
+    "sourceReference": null
   }
 ]
