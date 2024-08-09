@@ -3534,7 +3534,9 @@
       "per minute",
       "/ min",
       "1/min",
-      "per min"
+      "per min",
+      "spm",
+      "SPM"
     ],
     "symbol": "/min",
     "conversion": {
@@ -10494,52 +10496,6 @@
     },
     "source": "qudt.org",
     "sourceReference": "https://qudt.org/vocab/unit/B" 
-  },
-  {
-    "externalId": "frequency:spm",
-    "name": "SPM",
-    "quantity": "Frequency",
-    "longName": "Strokes per minute",
-    "aliasNames": [
-      "spm",
-      "SPM",
-      "strokes per min",
-      "Strokes per minute",
-      "strokes per minute",
-      "Strokes per min",
-      "Strokes/min",
-      "strokes/min",
-      "strokes/m",
-      "Strokes/m"
-    ],
-    "symbol": "spm",
-    "conversion": {
-      "multiplier": 1.0,
-      "offset": 0.0
-    },
-    "source": "SPE Petrowiki",
-    "sourceReference": "https://petrowiki.spe.org/Sucker-rod_pumping_units"
-  },
-  {
-    "externalId": "frequency:hecto-spm",
-    "name": "hecto-SPM",
-    "quantity": "Frequency",
-    "longName": "Hecto Strokes per minute",
-    "aliasNames": [
-      "hectoSPM",
-      "HectoSPM",
-      "hectospm",
-      "Hectospm",
-      "hecto SPM",
-      "hecto spm"
-    ],
-    "symbol": "spm",
-    "conversion": {
-      "multiplier": 100.0,
-      "offset": 0.0
-    },
-    "source": "SPE Petrowiki",
-    "sourceReference": "https://petrowiki.spe.org/Sucker-rod_pumping_units"
   },
   {
     "externalId": "frequency:hectohz",
