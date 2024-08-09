@@ -10543,7 +10543,7 @@
   },
   {
     "externalId": "frequency:hectohz",
-    "name": "hecto-HZ",
+    "name": "HectoHZ",
     "quantity": "Frequency",
     "longName": "Hectohertz",
     "aliasNames": [
